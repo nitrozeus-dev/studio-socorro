@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://studiosocorrohoracio.com.br/sitemap.xml
+Sitemap: https://nitrozeus-dev.github.io/studio-socorro/sitemap.xml
